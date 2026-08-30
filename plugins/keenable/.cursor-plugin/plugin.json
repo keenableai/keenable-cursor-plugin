@@ -1,0 +1,23 @@
+{
+  "name": "keenable",
+  "displayName": "Keenable",
+  "version": "1.0.0",
+  "description": "Live web search and clean page extraction for the agent. Keyless by default: no signup, no API key.",
+  "author": {
+    "name": "Keenable",
+    "email": "ilya.bogin@keenable.ai",
+    "url": "https://keenable.ai"
+  },
+  "license": "MIT",
+  "homepage": "https://keenable.ai",
+  "repository": "https://github.com/keenableai/keenable-cursor-plugin",
+  "keywords": [
+    "web-search",
+    "search",
+    "research",
+    "content-extraction",
+    "keyless",
+    "mcp"
+  ],
+  "logo": "assets/logo.svg"
+}

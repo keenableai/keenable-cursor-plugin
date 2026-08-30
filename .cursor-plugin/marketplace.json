@@ -1,0 +1,19 @@
+{
+  "name": "keenable",
+  "owner": {
+    "name": "Keenable",
+    "email": "ilya.bogin@keenable.ai",
+    "url": "https://keenable.ai"
+  },
+  "metadata": {
+    "description": "Keenable plugins for Cursor: keyless web search and page extraction.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "keenable",
+      "source": "./plugins/keenable",
+      "description": "Live web search and clean page extraction for the agent. Keyless by default: no signup, no API key."
+    }
+  ]
+}
