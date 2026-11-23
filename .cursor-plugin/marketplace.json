@@ -7,7 +7,7 @@
   },
   "metadata": {
     "description": "Keenable plugins for Cursor: keyless web search and page extraction.",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "plugins": [
     {

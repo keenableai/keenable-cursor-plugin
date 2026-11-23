@@ -68,7 +68,8 @@ answers `401`, whereas sending no header at all takes the keyless path.
 
 The plugin connects only to Keenable's hosted MCP endpoint at
 `https://api.keenable.ai/mcp` over HTTPS. It requests no credentials, runs no
-shell, and touches no local files.
+shell, and touches no local files. Search queries, the optional
+search `objective` and requested URLs are sent to Keenable.
 
 ## Resources
 
